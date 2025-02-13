@@ -3,7 +3,7 @@ I'm Dharmpal Yadav, a final-year B.Tech student specializing in Computer Science
 
 ## 👀 I’m interested in ...
 - Machine Learning and Artificial Intelligence
-- Android Development
+- Data Science
 - Natural Language Processing (NLP)
 - Deep Learning and Data Science
 
@@ -11,6 +11,7 @@ I'm Dharmpal Yadav, a final-year B.Tech student specializing in Computer Science
 - Advanced Machine Learning and Deep Learning Algorithms
 - Pointer-Generator Networks for Summarization
 - Sign Recognition Systems
+- Face Swapping/Deep fake tools
 
 ## 💞️ I’m looking to collaborate on ...
 - Innovative projects in AI and ML
